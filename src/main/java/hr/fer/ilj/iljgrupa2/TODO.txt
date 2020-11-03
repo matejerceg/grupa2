@@ -1,0 +1,7 @@
+Zadatak za radionicu 3.11.
++uzeti model iz predavanja 4 (LogEntry)
++napraviti spring boot aplikaciju (web, JPA, H2)
+spremanje logova npr. POST /log
+dohvaćanje svih logova npr. GET /logs
+inicijalizacija baze kod pokretanja s logovima pročitanim iz datoteke (predavanje 3 - spring.log
+filtriranje po log levelu npr. GET /loglevel/{ime levela}
